@@ -1198,7 +1198,7 @@ div.demo img {
   color: var(--tp-common-white);
   background: var(--tp-theme-primary);
   text-align: center;
-  font-family: var(--tp-ff-space);
+  font-family: Cairo;
   padding: 9px 22px;
   letter-spacing: -0.02em;
   position: relative;
@@ -2219,7 +2219,7 @@ div.demo img {
   cursor: pointer;
   display: block;
   float: left;
-  font-family: inherit;
+  font-family: Cairo;
   font-size: 14px;
   font-weight: normal;
   height: 42px;
@@ -2249,7 +2249,7 @@ div.demo img {
   content: "\f107";
   top: 50%;
   right: 0;
-  font-family: var(--tp-ff-fontawesome);
+  font-family: Cairo;
   color: var(--tp-common-black);
   font-weight: 500;
   pointer-events: none;
@@ -3376,7 +3376,7 @@ div.demo img {
 .tp-accordion .accordion-button::after {
   position: absolute;
   content: "\f106";
-  font-family: var(--tp-ff-fontawesome);
+  font-family: Cairo;
   background-image: none;
   top: 28%;
   right: 0;
@@ -4804,7 +4804,7 @@ body .ui-tooltip {
 }
 
 .ui-widget, .ui-widget button, .ui-widget input, .ui-widget select, .ui-widget textarea {
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: Cairo;
   font-size: 1em;
 }
 
@@ -9202,7 +9202,7 @@ body .ui-tooltip {
 /*----------------------------------------*/
 @media only screen and (min-width: 992px) and (max-width: 1199px), only screen and (min-width: 768px) and (max-width: 991px), only screen and (max-width: 767px) {
   .tp-main-menu-content {
-    margin-bottom: 40px;
+    margin-bottom: 0px;
   }
 }
 
@@ -11738,7 +11738,7 @@ a.social-yout {
   color: var(--tp-common-white);
   font-size: 100px;
   font-weight: 600;
-  line-height: 1;
+  line-height: 1.4;
   letter-spacing: -2px;
   margin-bottom: 27px;
 }
@@ -26370,7 +26370,7 @@ span.dark-border {
   font-size: 14px;
   font-weight: 500;
   color: var(--tp-common-black);
-  font-family: var(--tp-ff-space);
+  font-family: Cairo;
   padding: 6px 18px;
   border: 1px solid rgba(0, 0, 0, 0.12);
   text-align: center;
@@ -30937,7 +30937,7 @@ span.common-pale-purple {
   color: #57595f;
   content: "\f105";
   transform: rotate(0deg);
-  font-family: fontawesome;
+  font-family: Cairo;
   -webkit-transition: all 0.3s 0s ease-out;
   -moz-transition: all 0.3s 0s ease-out;
   -ms-transition: all 0.3s 0s ease-out;
