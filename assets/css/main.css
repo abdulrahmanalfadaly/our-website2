@@ -11745,7 +11745,7 @@ a.social-yout {
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
   .tp-hero-title {
     font-size: 80px;
-    line-height: 2;
+    line-height: 4;
 
   }
 }
@@ -11757,7 +11757,7 @@ a.social-yout {
 @media only screen and (max-width: 767px) {
   .tp-hero-title {
     font-size: 66px;
-    line-height: 2;
+    line-height: 4;
   }
 }
 
